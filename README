@@ -1,0 +1,4 @@
+Learn to implement PageRank using Hadoop from the dataset here: http://www.limfinity.com/ir/
+
+Requirement:
+Docker image from joway/hadoop-cluster
